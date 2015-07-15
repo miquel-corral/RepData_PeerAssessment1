@@ -1,9 +1,9 @@
 ---
 title: 'Reproducible Research: Peer Assessment 1'
 output:
-  pdf_document: default
   html_document:
     keep_md: yes
+  pdf_document: default
 ---
 # Introduction
 This is the report to fullfill the Peer Assignment 1 of the Reproducible Research module in the Data Science specialization course.
